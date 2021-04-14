@@ -1,1 +1,13 @@
-# text-reuse-in-cairo-genizah
+# Reconstructing the medieval Arabic medical library based on comparison the Cairo Genizah fragments and medical corpora of the period 
+
+In the medieval age, Cairo was one of the most important socio-economic, science and cultural centers of the Muslim world and so was the Jewish community in it. The manuscript fragments  were found in the Cairo Geniza provides a unique source of information about all aspects of Jewish life in medieval Egypt in particular and the Mediterranean society in general. The glimpse into Jewish life, through the fragments, reveals many aspects of the activity of the Cairo Jewish community. Many important Jews of that time used as doctors and practiced medicine and therefore this area has an important place in the historical study of Jewish society during this period.
+
+Following a few decades of study into the history of medical knowledge in medieval Arabic lands, which was mainly based on the analysis of manuscripts of medical literature, medical historians tried to reconstruct the lost knowledge, both theoretical and practical. This knowledge was used by physicians and practitioners, but lost centuries ago.
+
+To date, nearly 2,000 fragments have been identified as having medical context. However, no systematic mapping work has been undertaken that outlines the medical literature that stood before the eyes of the Jewish physicians who lived in the Arab community in the Middle Ages. Such mapping defines the medical knowledge that developed and was available at that time in the entire space. The "bookshelf" medical reconstruction project is extensive and requires in-depth interdisciplinary work involving diverse knowledge experts in history and medical sciences, with linguistic knowledge and computing expertise. We intend to lay one of many stones in this multi-tiered research building.
+
+As mentioned above, the purpose of the study is to reveal the textual origin of several Arabic Genizah fragments that have not yet been identified. The research process involved collecting corpus of medical literature of that time in Arabic; Partial transcription of a sample of medical fragments in Arabic; On the basis of the medical corpus, a retrieval tool was constructed that allows for short transcription and to identify possible sources of this passage from the corpus.
+
+Preliminary findings already collected prove the feasibility of this method and allow unidentified medical sections to be identified, and do so relatively efficiently and quickly - using only partial information.
+
+Further and depending on the degree of success, the infrastructure can be developed and adapted to enable texts to be found in other languages (such as Hebrew, Arabic-Jewish and Greek) and on other corpora.
